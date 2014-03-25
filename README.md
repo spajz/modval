@@ -1,7 +1,5 @@
 # Simple model validation for Laravel 4
 
-[![Build Status](https://travis-ci.org/spajz/modval.svg?branch=master)](https://travis-ci.org/spajz/modval)
-
 ---
 
 * Auto validate model on save.
