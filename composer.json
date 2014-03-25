@@ -1,0 +1,24 @@
+{
+    "name": "spajz/modval",
+    "description": "Simple model validation for Laravel 4.",
+    "keywords": ["laravel", "model", "validation"],
+    "authors": [
+        {
+            "name": "Spajz",
+            "email": "rasplinjac@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Spajz\\Modval\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
