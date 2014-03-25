@@ -1,7 +1,7 @@
 {
     "name": "spajz/modval",
     "description": "Simple model validation for Laravel 4.",
-    "keywords": ["laravel", "model", "validation"],
+    "keywords": ["laravel", "model", "validation", "eloquent"],
     "authors": [
         {
             "name": "Spajz",
